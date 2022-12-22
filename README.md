@@ -47,7 +47,7 @@ If you find any errors with this application please send me a message through gi
 
 ## Credits
 
-This application was made to run in [node.js](https://nodejs.org/) using [Sequelize](https://sequelize.org/), [mysql](https://www.mysql.com/), [Express.js](https://expressjs.com/), [dotenv](https://www.npmjs.com/package/dotenv), and [mysql2](https://www.npmjs.com/package/mysql2) as dependencies and used [Insomnia](https://insomnia.rest/) as a viewer to view the prompts
+This application was made to run in [Node.js](https://nodejs.org/) using [Sequelize](https://sequelize.org/), [mysql](https://www.mysql.com/), [Express.js](https://expressjs.com/), [dotenv](https://www.npmjs.com/package/dotenv), and [mysql2](https://www.npmjs.com/package/mysql2) as dependencies and used [Insomnia](https://insomnia.rest/) as a viewer to view the prompts
 
 ## License
 
